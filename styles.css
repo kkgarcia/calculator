@@ -1,6 +1,6 @@
 @font-face {
     font-family: digital;
-    src: url('fonts/digital-7regular.ttf') format('truetype');
+    src: url(../fonts/digital-7regular.ttf);
 }
 
 * {
